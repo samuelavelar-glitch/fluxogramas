@@ -1,0 +1,6 @@
+início --> display --> entrada manual --> 
+condição -> display1 
+   |           |
+ display 2.  -> conector
+                  | 
+                fim
